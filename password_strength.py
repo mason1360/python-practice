@@ -1,6 +1,0 @@
-password = "abc123"
-
-if len(password) < 8:
-    print("weak password")
-else:
-    print("strong password")
