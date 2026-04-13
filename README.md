@@ -15,10 +15,11 @@ Basic access control logic and security-related scripts
 mini_projects/
 Small interactive programs such as number guessing game
 
+
 ## Skills Practiced
 
-Python syntax
-Functions and conditional logic
-User input handling
-Basic scripting workflows
-Security-oriented problem solving
+- Python syntax
+- Functions and conditional logic
+- User input handling
+- Basic scripting workflows
+- Security-oriented problem solving
